@@ -16,7 +16,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.util.Log;
 import android.widget.Toast;
-import android.content.Intent;
+import android.content.Intent;;
 import cz.msebera.android.httpclient.Header;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
